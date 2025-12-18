@@ -5,7 +5,7 @@ include 'includes/header.php';
 ?>
 <section class="hero">
   <h1>Welcome</h1>
-  <p>This is a lightweight PHP starter with a shared header and footer.</p>
+  <p>I thought about this today for five seconds.</p>
   <a class="btn" href="about.php">Learn more</a>
 </section>
 <section class="grid">
