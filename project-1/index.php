@@ -1,5 +1,5 @@
 ﻿<?php
-$title = 'Home | My PHP Site';
+$title = 'VHS Archives | Preserving VHS Educational Videos';
 $basePath = './';
 include 'includes/header.php';
 ?>
